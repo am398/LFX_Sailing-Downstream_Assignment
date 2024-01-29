@@ -1,0 +1,14 @@
+{
+  "name": "assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainfile.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Anuj Maurya",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
